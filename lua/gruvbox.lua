@@ -369,6 +369,10 @@ Group.new("vimFuncSID", groups.GruvboxFg3, groups.GruvboxFg3, groups.GruvboxFg3)
 Group.new("vimSetSep", groups.GruvboxFg3, groups.GruvboxFg3, groups.GruvboxFg3)
 Group.new("vimSep", groups.GruvboxFg3, groups.GruvboxFg3, groups.GruvboxFg3)
 Group.new("vimContinue", groups.GruvboxFg3, groups.GruvboxFg3, groups.GruvboxFg3)
+Group.new("vimCommand", groups.GruvboxAqua, groups.GruvboxAqua, groups.GruvboxAqua)
+Group.new("vimNotFunc", groups.GruvboxAqua, groups.GruvboxAqua, groups.GruvboxAqua)
+Group.new("vimLet", groups.GruvboxRed, groups.GruvboxRed, groups.GruvboxRed)
+Group.new("vimFuncVar", groups.GruvboxYellow, groups.GruvboxYellow, groups.GruvboxYellow)
 
 -- Python
 Group.new("pythonBuiltin", groups.GruvboxOrange, groups.GruvboxOrange,
